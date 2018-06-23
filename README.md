@@ -1,2 +1,2 @@
 # Liars-Dice
-Liars-Dice Discord Bot!
+:game_die: Liars-Dice Discord Bot!
